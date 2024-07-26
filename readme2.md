@@ -17,8 +17,8 @@ colcon build
 
  
 image :
- 
-![image]([https://github.com/user-attachments/assets/0901153c-f94a-468d-813b-dda36b3d3b79](https://github.com/moataz-ltaiaf/Fusion-des-mod-les-AI-et-simulation-sous-ROS./blob/main/Screenshot%20from%202024-07-26%2006-26-33.png))
+ https://github.com/moataz-ltaiaf/Fusion-des-mod-les-AI-et-simulation-sous-ROS./blob/main/Screenshot%20from%202024-07-26%2006-26-33.png
+
  ### Create Workspace And Package
  
 ```python 
