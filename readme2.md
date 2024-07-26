@@ -1,15 +1,25 @@
-# Modeling, Simulation, and Control of 4-Wheeled Mobile Robot in ROS2 <h1>
+#Learn How To Write Launch Files and Load URDF (Xacro) 3D Model in Gazebo and ROS2 (Iron Irwini) <h1>
  
-## sous Titre 1
+## Instalation
+udo apt-get install gedit
+sudo apt-get install ros-iron-joint-state-publisher
+sudo apt-get install ros-iron-joint-state-publisher-gui
+sudo apt-get install ros-iron-xacro
+sudo apt-get install ros-iron-gazebo-ros-pkgs
+sudo apt-get install ros-iron-geometry2
+
  
-### soussous titre
+### Create Workspace And Package
  
-azeazeazeazeazeazeazeaeaeaeaze
+source /opt/ros/iron/setup.bash
+mkdir -p ~/ws_gazebo/src
+colcon build
+
  
 image :
  
 ![image](https://github.com/user-attachments/assets/0901153c-f94a-468d-813b-dda36b3d3b79)
- 
+ ### Create Workspace And Package
  
 ```python 
 x=5
